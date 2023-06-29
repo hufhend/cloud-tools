@@ -1,10 +1,10 @@
-#   ***********************************************
+#   ****************************************
 #   Tag inheritance in Azure cloud
 #   begin     : Thu 29 Jun 2023
 #   copyright : (c) 2023 Václav Dvorský
 #   email     : vaclav.dvorsky@hotmail.com
-#   $Id: install_ubuntu_server.sh, v1.00 29/06/2023
-#   ***********************************************
+#   $Id: az_tag_inherit.sh, v1.00 29/06/2023
+#   ****************************************
 #
 #   --------------------------------------------------------------------
 #   This program is free software; you can redistribute it and/or modify
